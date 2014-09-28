@@ -1,5 +1,5 @@
 <?php
-echo "this is master";
+echo "this is new test";
 //this is exit;
 exit;
 ?>
